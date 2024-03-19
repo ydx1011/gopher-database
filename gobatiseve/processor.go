@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	BuildinValueDataSources = "gohper.dataSources"
+	BuildinValueDataSources = "gopher.dataSources"
 )
 
 type DataSource struct {
